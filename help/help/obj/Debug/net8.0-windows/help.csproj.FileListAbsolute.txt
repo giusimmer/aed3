@@ -1,0 +1,48 @@
+C:\Users\Giulia Simmer\source\repos\help\help\bin\Debug\net8.0-windows\help.exe
+C:\Users\Giulia Simmer\source\repos\help\help\bin\Debug\net8.0-windows\help.deps.json
+C:\Users\Giulia Simmer\source\repos\help\help\bin\Debug\net8.0-windows\help.runtimeconfig.json
+C:\Users\Giulia Simmer\source\repos\help\help\bin\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help\help\bin\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.Front.resources
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.csproj.GenerateResource.cache
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.AssemblyInfoInputs.cache
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.AssemblyInfo.cs
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.csproj.CoreCompileInputs.cache
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\refint\help.dll
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\help.genruntimeconfig.cache
+C:\Users\Giulia Simmer\source\repos\help\help\obj\Debug\net8.0-windows\ref\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\bin\Debug\net8.0-windows\help.exe
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\bin\Debug\net8.0-windows\help.deps.json
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\bin\Debug\net8.0-windows\help.runtimeconfig.json
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\bin\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\bin\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.Front.resources
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.csproj.GenerateResource.cache
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.AssemblyInfoInputs.cache
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.AssemblyInfo.cs
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.csproj.CoreCompileInputs.cache
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\refint\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\help.genruntimeconfig.cache
+C:\Users\Giulia Simmer\source\repos\help - Copia\help\obj\Debug\net8.0-windows\ref\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\bin\Debug\net8.0-windows\help.exe
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\bin\Debug\net8.0-windows\help.deps.json
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\bin\Debug\net8.0-windows\help.runtimeconfig.json
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\bin\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\bin\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.Front.resources
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.csproj.GenerateResource.cache
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.AssemblyInfoInputs.cache
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.AssemblyInfo.cs
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.csproj.CoreCompileInputs.cache
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\refint\help.dll
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.pdb
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\help.genruntimeconfig.cache
+C:\Users\Giulia Simmer\source\repos\help - Correção\help\obj\Debug\net8.0-windows\ref\help.dll
